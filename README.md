@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Bushra Shahzadi
 
-### Senior SQA Engineer & Team Lead · Quality Champion 🏆 · Wolverhampton, UK
+### Senior SQA Team Lead &Project Assistant Manager · Quality Champion 🏆 · Wolverhampton, UK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bushra-shahzadi-5bb899214)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bushrashahzadi307@gmail.com)
@@ -23,14 +23,14 @@
 
 ```yaml
 name:       Bushra Shahzadi
-role:       Senior SQA Engineer & Team Lead
+role:       Senior SQA Engineers Team Lead & Assistant Project Manager 
 location:   Wolverhampton, United Kingdom
-experience: 9+ years in software quality assurance
+experience: 7+ years in software quality assurance
 available:  Immediately — open to UK roles (remote / hybrid)
 award:      🏆 Quality Champion — vFairs 2023
 ```
 
-Results-driven Senior SQA Engineer with **9+ years** of experience delivering high-quality software across **web, mobile, API, and IoT** platforms. Proven track record leading QA teams, building automation frameworks, and embedding shift-left testing into CI/CD pipelines. I transform manual bottlenecks into fully automated, reliable test suites.
+Results-driven Senior SQA Engineer with **7+ years** of experience delivering high-quality software across **web, mobile, API, and IoT** platforms. Proven track record leading QA teams, building automation frameworks, and embedding shift-left testing into CI/CD pipelines. I transform manual bottlenecks into fully automated, reliable test suites.
 
 ---
 
@@ -150,7 +150,7 @@ Results-driven Senior SQA Engineer with **9+ years** of experience delivering hi
 
 I'm **immediately available** for Senior SQA Engineer or QA Lead roles across the UK.
 
-> 📍 Wolverhampton, UK &nbsp;|&nbsp; 📞 +44 07833037092 &nbsp;|&nbsp; ✉ bushrashahzadi307@gmail.com
+> 📍 Wolverhampton, UK &nbsp;|&nbsp; 📞 +44 7466194310 &nbsp;|&nbsp; ✉ bushrashahzadi307@gmail.com
 
 <div align="center">
 
