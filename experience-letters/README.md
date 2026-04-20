@@ -58,8 +58,7 @@ All experience letters are original verified documents from former employers.
 **Position:** SQA Engineer  
 **Document:** PDF experience letter  
 
-[Vfairs/digi-first](./Vfairs-letter.png)
-
+![vfairs/digifirst](./Vfairs-letter.png)
 ---
 
 *All experience letters are original documents. Available for employer verification on request.*  
