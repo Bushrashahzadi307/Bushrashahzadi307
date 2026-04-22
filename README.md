@@ -22,7 +22,7 @@
 ```yaml
 name:         Bushra Shahzadi
 role:         Senior SQA Engineer & Team Lead
-experience:   9+ years in software quality assurance
+experience:   7+ years in software quality assurance
 location:     Wolverhampton, United Kingdom
 available:    Immediately — open to UK roles (remote / hybrid / on-site)
 business:     sqawithme.com — QA consultancy & mentoring platform
@@ -33,7 +33,13 @@ languages:    Urdu (Native) · English (B2 — C1 Spoken)
 I am a results-driven **Senior SQA Engineer and Team Lead** with over 9 years of experience delivering high-quality software across web, mobile, API, and IoT platforms. I design automation frameworks, lead QA teams, and build shift-left testing strategies that reduce bugs before they reach production.
 
 Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com)** — a QA consultancy and learning platform where I share testing expertise, mentor junior engineers, and help businesses build quality-first engineering cultures.
+<div align="center">
 
+| 🧪 Automation | 🔒 Security | 📱 Mobile | 🌐 API | ⚡ Performance |
+|:---:|:---:|:---:|:---:|:---:|
+| Selenium · Playwright · Cypress | OWASP · MQTT · IoT | Appium Android/iOS | REST Assured · Postman | JMeter · LoadRunner |
+
+</div>
 ---
 
 ## 🔧 Automation Stack
@@ -59,57 +65,9 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bushra%20Shahzadi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Senior%20SQA%20Engineer%20%26%20Team%20Lead%20%7C%20Quality%20Champion%20%F0%9F%8F%86&descSize=18&descAlignY=65&descColor=b8b5ff" width="100%"/>
-
-</div>
-
 <br/>
 
-<div align="center">
 
-```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║   9+ Years · Web · Mobile · API · IoT · Security Testing    ║
-  ║   Wolverhampton, UK  ·  Immediately Available               ║
-  ╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn%20─-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bushra-shahzadi-5bb899214)
-[![Portfolio](https://img.shields.io/badge/─%20Portfolio%20─-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bushrashahzadi307.github.io)
-[![SQA With Me](https://img.shields.io/badge/─%20sqawithme.com%20─-e879a0?style=for-the-badge&logo=rocket&logoColor=white)](https://sqawithme.com)
-[![Email](https://img.shields.io/badge/─%20Hire%20Me%20─-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bushrashahzadi307@gmail.com)
-
-![](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-immediately%20available-38d9a9?style=flat-square)
-![](https://img.shields.io/badge/📍-Wolverhampton%2C%20UK-6c63ff?style=flat-square)
-![](https://img.shields.io/badge/📞-+44%2007833037092-6c63ff?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ What I Do
-
-</div>
-
-> I build **test automation frameworks from scratch**, lead QA teams, and ship quality software. 9+ years across startups and scale-ups — web platforms, Android apps, REST APIs, and IoT systems. I turn manual bottlenecks into fully automated, CI-integrated test suites that catch bugs before they reach production.
-
-<br/>
-
-<div align="center">
-
-| 🧪 Automation | 🔒 Security | 📱 Mobile | 🌐 API | ⚡ Performance |
-|:---:|:---:|:---:|:---:|:---:|
-| Selenium · Playwright · Cypress | OWASP · MQTT · IoT | Appium Android/iOS | REST Assured · Postman | JMeter · LoadRunner |
-
-</div>
 
 ---
 
