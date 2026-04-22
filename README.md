@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=header&text=Bushra+Shahzadi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Senior+SQA+Engineer+%7C+Quality+Champion+%F0%9F%8F%86+%7C+Wolverhampton+UK&descSize=16&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,10&height=300&section=header&text=Bushra+Shahzadi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Sr.+SQA+Team+Lead+and+Project+Assistant+Manager+%7C+Quality+Champion+%F0%9F%8F%86+%7C+Wolverhampton+UK&descSize=16&descAlignY=68" width="100%"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 👩‍💻 Who I Am
+## Who I Am
 
 ```yaml
 name:         Bushra Shahzadi
@@ -35,14 +35,14 @@ I am a results-driven **Senior SQA Engineer and Team Lead** with over 9 years of
 Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com)** — a QA consultancy and learning platform where I share testing expertise, mentor junior engineers, and help businesses build quality-first engineering cultures.
 <div align="center">
 
-| 🧪 Automation | 🔒 Security | 📱 Mobile | 🌐 API | ⚡ Performance |
+| Automation | Security | Mobile | API |Performance |
 |:---:|:---:|:---:|:---:|:---:|
 | Selenium · Playwright · Cypress | OWASP · MQTT · IoT | Appium Android/iOS | REST Assured · Postman | JMeter · LoadRunner |
 
 </div>
 ---
 
-## 🔧 Automation Stack
+## Automation Stack
 
 ### Test Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -69,11 +69,11 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ---
 
-### `01` — [vFairs QA Portfolio](https://github.com/Bushrashahzadi307/vfairs-qa-portfolio) · Automation
+### [vFairs QA Portfolio](https://github.com/Bushrashahzadi307/vfairs-qa-portfolio) · Automation
 > **vFairs** — virtual events platform (web + mobile + API) · Sep 2021 – Feb 2024
 
 ```
@@ -98,7 +98,7 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 
 ---
 
-### `02` — TAMtracker QA · Playwright + TypeScript
+### TAMtracker QA · Playwright + TypeScript
 > **Innovation Insight** — B2B market intelligence SaaS · Feb 2022 – Present
 
 **What I built:**
@@ -117,7 +117,7 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 
 ---
 
-### `03` — GetZeuss QA · US Telehealth Platform
+### GetZeuss QA · US Telehealth Platform
 > **Innovation Insight** — GLP-1/GIP medications platform · Astro 4 + React 19
 
 **What I built:**
@@ -137,7 +137,7 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 
 ---
 
-### `04` — Dalua IoT App · Manual QA
+### Dalua IoT App · Manual QA
 > **DevStudio** — Smart aquarium IoT ecosystem (Android) · Jul 2021 – Jun 2022
 
 **What I tested:**
@@ -156,7 +156,7 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 
 ---
 
-### `05` — LogFish App · Manual QA
+###  LogFish App · Manual QA
 > **Innovation Insight** — iOS & Android fishing app · Feb 2022 – Present
 
 **What I tested:**
@@ -174,7 +174,7 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 
 ---
 
-### `06` — IoT Security & Smart Systems · KICS UET
+###  IoT Security & Smart Systems · KICS UET
 > **Al-Khawarizmi Institute of Computer Science, UET Lahore** · May 2019 – Jun 2021
 
 **What I tested:**
@@ -194,7 +194,7 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 
 ---
 
-## 📊 Numbers That Matter
+## Numbers That Matter
 
 <div align="center">
 
@@ -213,7 +213,7 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -227,7 +227,7 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 
 ---
 
-## 💬 What People Say
+## What People Say
 
 <div align="center">
 
@@ -246,7 +246,7 @@ Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com
 
 ---
 
-## 🏢 My Business
+## My Business
 
 <div align="center">
 
