@@ -1,3 +1,49 @@
+</div>
+
+---
+
+## 👩‍💻 Who I Am
+
+```yaml
+name:         Bushra Shahzadi
+role:         Senior SQA Engineer & Team Lead
+experience:   9+ years in software quality assurance
+location:     Wolverhampton, United Kingdom
+available:    Immediately — open to UK roles (remote / hybrid / on-site)
+business:     sqawithme.com — QA consultancy & mentoring platform
+award:        🏆 Quality Champion — vFairs Annual Fiesta 2023
+languages:    Urdu (Native) · English (B2 — C1 Spoken)
+```
+
+I am a results-driven **Senior SQA Engineer and Team Lead** with over 9 years of experience delivering high-quality software across web, mobile, API, and IoT platforms. I design automation frameworks, lead QA teams, and build shift-left testing strategies that reduce bugs before they reach production.
+
+Beyond my professional work, I am building **[SQA With Me](https://sqawithme.com)** — a QA consultancy and learning platform where I share testing expertise, mentor junior engineers, and help businesses build quality-first engineering cultures.
+
+---
+
+## 🔧 Automation Stack
+
+### Test Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-41BDF5?style=flat-square&logo=appium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-4CAF50?style=flat-square)
+![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+
+### Languages & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bushra%20Shahzadi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Senior%20SQA%20Engineer%20%26%20Team%20Lead%20%7C%20Quality%20Champion%20%F0%9F%8F%86&descSize=18&descAlignY=65&descColor=b8b5ff" width="100%"/>
