@@ -1,3 +1,18 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=header&text=Bushra+Shahzadi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Senior+SQA+Engineer+%7C+Quality+Champion+%F0%9F%8F%86+%7C+Wolverhampton+UK&descSize=16&descAlignY=78" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bushra-shahzadi-5bb899214)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c6af7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bushrashahzadi307.github.io)
+[![Business](https://img.shields.io/badge/SQA_With_Me-sqawithme.com-e879a0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sqawithme.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bushrashahzadi307@gmail.com)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Immediately_Available-38d9a9?style=for-the-badge)](mailto:bushrashahzadi307@gmail.com)
+
 </div>
 
 ---
