@@ -1,10 +1,13 @@
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,10&height=300&section=header&text=Bushra+Shahzadi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Sr.+SQA+Team+Lead+and+Project+Assistant+Manager+%7C+Quality+Champion+%F0%9F%8F%86+%7C+Wolverhampton+UK&descSize=16&descAlignY=68" width="100%"/>
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,10&height=300&section=header&text=Bushra%20Shahzadi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Senior%20QA%20Automation%20Engineer%20%7C%20QA%20Team%20Lead%20%7C%20AI-Driven%20Testing%20%7C%20Quality%20Champion%20%F0%9F%8F%86%20%7C%20UK&descSize=16&descAlignY=68" 
+width="100%"/>
 
 </div>
-
+</div>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bushra-shahzadi-5bb899214)
